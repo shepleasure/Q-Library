@@ -30,8 +30,11 @@ body {
 .btn-success:active {
   border-color: #22C976 !important;
 }
-.glyphicon-user, .glyphicon-lock {
+.glyphicon-user, .glyphicon-lock, .glyphicon-log-out{
   color: #22C976;
+}
+.glyphicon-log-out {
+  padding-left: 10px;
 }
 .header {
   background-color: #fff;
