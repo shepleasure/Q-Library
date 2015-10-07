@@ -1,0 +1,30 @@
+body {
+  background-color: #6D6E70 !important; 
+}
+.form-signin .form-control {
+  font-size: 16px;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+  height: auto;
+  padding: 10px;
+}
+.vertical-offset-100 {
+  padding-top: 100px;
+}
+.img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+}
+.btn-success {
+  background-color: #22C976 !important;
+}
+.btn-success:hover {
+  background-color: #1eb369 !important;
+}
+.btn-success:active {
+  border-color: #22C976 !important;
+}
+.glyphicon-user, .glyphicon-lock {
+  color: #22C976;
+}
