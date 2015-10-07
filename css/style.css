@@ -16,6 +16,11 @@ body {
   height: auto;
   margin: auto;
 }
+.img-header {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
 .btn-success {
   background-color: #22C976 !important;
 }
@@ -27,4 +32,14 @@ body {
 }
 .glyphicon-user, .glyphicon-lock {
   color: #22C976;
+}
+.header {
+  background-color: #fff;
+  padding: 10px;
+}
+.sign-out {
+  padding-left: 20px;
+}
+p {
+  font-family: 'Roboto', sans-serif;
 }
